@@ -1,0 +1,198 @@
+*.body{
+    min-height: 300px;
+            
+}
+
+.side-menu {
+    top: 0;
+    width: 283px;
+    height: 100vh;
+    position: fixed;
+    background-color: #FFFFFF;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    padding: 30px;
+    overflow-y: auto;
+    gap: 10px;
+    min-height: 300px;
+
+}
+
+.logo img {
+    width: 144.803955078125px;
+    height: 30px;
+    opacity: 1;
+    left: 26px;
+    margin-bottom: 40px;
+    display: block;
+
+}
+
+.switch-organisation img {
+    width: 206px;
+    height: 19px;
+    opacity: 1;
+    left: 26px;
+    margin-bottom:30px;
+    display: block;
+
+} 
+
+.dashboard img {
+    width: 110px;
+    height: 19px;
+    opacity: 1;
+    left: 26px;
+    margin-bottom: 40px;
+    display: block;
+
+}
+
+.customers img {
+    height: 19px;
+    gap: 20px;
+    padding: 8px;
+    left: 26px;
+    flex-direction: column;
+    display: block;
+}
+
+.businesses img {
+    height: 19px;
+    gap: 20px;
+    padding: 8px;
+    left: 26px;
+    flex-direction: column;
+    display: block;
+}
+
+.settings img{
+    height: 19px;
+    gap: 20px;
+    padding: 8px;
+    left: 26px;
+    flex-direction: column;
+    display: block;
+}
+
+#inner {
+    color: #545f7d;
+    font-size: 14px;
+    font-family: work 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.side-menu ul {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 0;
+}
+
+.Main-menu {
+    top: 0px;
+    height: 100vh;
+    flex: 1;
+    position: fixed;
+    display: block;
+    margin-left: 383px;
+    overflow-x: auto;
+}
+
+.search img {
+    width: 400px;
+    height: 40px;
+    top: 30px;
+    left: auto;
+    opacity: 1;
+    border-width: 1px;
+}
+
+#docs img {
+    width: 37px;
+    height: 19px;
+    top: 44px;
+    left: 1100px;
+    opacity: 1;
+
+}
+
+#notif img {
+    width: 19.674962997436523px;
+    height: 22.736698150634766px;
+    top: 1.73px;
+    left: 3.16px;
+    border-width: 0.4px;
+    opacity: 1;
+    
+}
+
+#avatar img {
+    width: 48;
+    height: 48;
+    top: 26px;
+    left: 1240px;
+    opacity: 1;
+
+}
+
+#name img {
+    width: 58;
+    height: 19px;
+    top: 44px;
+    left: 1298px;
+    opacity: 1;
+    overflow-y: auto;
+
+}
+
+.lb img {
+    width: 227;
+    height: 30;
+    opacity: 1;
+}
+
+.rb img {
+    width: 262;
+    height: 24;
+    top: 3px;
+    left: 775px;
+    opacity: 1;
+
+}
+
+.container {
+    width: 1037;
+    height: 640;
+    top: 428px;
+    opacity: 1;
+    border-width: 1px;
+    display: flex;
+    font-family: work sans;
+    left: 500px;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 4px;
+    text-align: center;
+
+}
+
+.user-list img {
+    flex-direction: row;
+    width: 240;
+    height: 160;
+    top: 228px;
+    left: 343px;
+    opacity: 1;
+    border-width: 1px;
+    display: block;
+
+}
+
+.screen {
+    display: flex;
+    
+}
